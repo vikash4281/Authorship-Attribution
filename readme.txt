@@ -21,6 +21,3 @@ location = C:\\Users\\vicky\\Desktop\\authorship-attribution-test-dataset-proble
 and you can run without passing any arguments.
 
 the result will be created in a text format in a file named results.txt
-
-i will be attaching  a dataset for reference.
-
